@@ -50,5 +50,6 @@
     },
     "listFontSize": 24,
     "mainMenuColCount": 4,
-    "includeIndexText": false
+    "includeIndexText": false,
+    "showBottomBarButtons": false
 }
